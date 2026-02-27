@@ -1,2 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pablordgez&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pablordgez&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
